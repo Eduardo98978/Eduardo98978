@@ -4,17 +4,19 @@ Desenvolvo sites e aplicações web pensados para negócios reais — da apresen
 
 ## Projetos em destaque
 
-### Clínica Cristina
+### Clínica Cristiane Moura
 Site institucional responsivo para uma clínica de estética, com páginas de tratamentos, resultados, equipe, contato, SEO e navegação mobile.
 
 **Tecnologias:** Next.js, TypeScript, CSS e Vercel  
-[Ver repositório](https://github.com/Eduardo98978/clinica-cristina)
+[🌐 Acessar o site](https://clinica-cristina.vercel.app/)
 
 ### Infinity Som & Elétrica
 Plataforma web para uma oficina e loja automotiva, com catálogo, carrinho, contas de clientes, painel administrativo, pedidos, estoque e integração com banco de dados.
 
-**Tecnologias:** Node.js, JavaScript, PostgreSQL, Supabase e Render  
-_O código deste projeto é privado por conter a aplicação comercial completa._
+**Tecnologias:** Node.js, JavaScript, PostgreSQL, Supabase e Vercel  
+[🌐 Acessar o site](https://infinity-som-eletrica.vercel.app/)
+
+> Os códigos dos projetos comerciais são mantidos em repositórios privados.
 
 ## Tecnologias
 
