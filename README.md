@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Eduardo 👋
 
-<!--
-**Eduardo98978/Eduardo98978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvo sites e aplicações web pensados para negócios reais — da apresentação da marca à operação de vendas, autenticação e administração.
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Clínica Cristina
+Site institucional responsivo para uma clínica de estética, com páginas de tratamentos, resultados, equipe, contato, SEO e navegação mobile.
+
+**Tecnologias:** Next.js, TypeScript, CSS e Vercel  
+[Ver repositório](https://github.com/Eduardo98978/clinica-cristina)
+
+### Infinity Som & Elétrica
+Plataforma web para uma oficina e loja automotiva, com catálogo, carrinho, contas de clientes, painel administrativo, pedidos, estoque e integração com banco de dados.
+
+**Tecnologias:** Node.js, JavaScript, PostgreSQL, Supabase e Render  
+_O código deste projeto é privado por conter a aplicação comercial completa._
+
+## Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+## Como eu trabalho
+
+- Interfaces responsivas e fáceis de usar
+- Backend e banco de dados para operações reais
+- Segurança de credenciais e dados sensíveis
+- Testes, build e publicação em nuvem
+
+---
+
+Sempre transformando ideias em projetos funcionais e prontos para evoluir.
